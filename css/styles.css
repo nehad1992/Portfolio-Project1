@@ -22,3 +22,11 @@ h1 {
     padding: 10px;
     padding-left: 15px;
 }
+h3 {
+    font-style: italic;
+    font-weight: 300;
+}
+.background {
+    color: rgb(207, 133, 42);
+    font-style: italic;
+}

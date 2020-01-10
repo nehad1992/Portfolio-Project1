@@ -1,3 +1,7 @@
+body {
+    background-color: rgb(179, 205, 245);
+}
+
 h1 {
     font-size: 50px;
     text-align: center;

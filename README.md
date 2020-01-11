@@ -21,4 +21,4 @@ _Contact Neha Doodi at Epicodus_
 
 _HTML CSS bootstrap_
 
-###Copyright (c) 2020 **_Neha Doodi_**
+Copyright (c) 2020 **_Neha Doodi_**

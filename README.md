@@ -11,7 +11,7 @@ _Creating a portfolio using html, css and bootstrap._
 * _Clone the repository._
 
 ## GitHub link:
-_https://github.com/nehad1992/Portfolio-Project1_
+_https://nehad1992.github.io/Portfolio-Project1/_
 
 ## Support and contact details
 
